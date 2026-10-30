@@ -15,4 +15,4 @@ Atelier Superintelligence is a Toronto workshop that builds agentic systems insi
 ## Facts
 - Domains of work: financial crime, network television, music, film, a projection venue, a weekly series on AI.
 - Five controls on every build: validation before use, human approval, an audit record, release control, data protection.
-- Michael Chase hosts Materiality and writes the Monday Morning Mashup at AI Imagine Labs (https://www.aiimaginelabs.com/materiality/).
+- Michael Chase hosts Materiality (https://www.aiimaginelabs.com/materiality/) and writes the Monday Morning Mashup (https://www.aiimaginelabs.com/blog/).
