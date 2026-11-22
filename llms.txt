@@ -2,7 +2,7 @@
 
 > Bespoke agentic systems. Deep context. Real integrations. Results that compound.
 
-Atelier Superintelligence is a Toronto workshop that builds agentic systems inside a client's own cloud: agents that reason, keep memory and carry skills, working with autonomy under human oversight, with the points where people step in designed from the start. Founded by Michael Chase (strategy and adoption) and Sean Evans (engineering and production). Method: FORGE (Learn, Build, Prove, Stay). Contact: hello@atlr.pro.
+Atelier Superintelligence is a Toronto workshop that builds agentic systems inside a client's own cloud: agents that hold the client's documents and rules as context, draft the work with the evidence attached, and stop to ask when their confidence is low, with the points where people step in designed from the start. Founded by Michael Chase (strategy and adoption) and Sean Evans (engineering and production). Method: Forge (Learn, Build, Prove, Stay). Contact: hello@atlr.pro.
 
 ## Pages
 - Home: https://atlr-frge.github.io/atlr-staging/
@@ -10,10 +10,11 @@ Atelier Superintelligence is a Toronto workshop that builds agentic systems insi
 - Method: https://atlr-frge.github.io/atlr-staging/method/ (the Forge Sprint and the four moves)
 - Team: https://atlr-frge.github.io/atlr-staging/team/
 - Materiality: https://atlr-frge.github.io/atlr-staging/materiality/ (the weekly series on AI with Verma Private Wealth at Canaccord Genuity, hosted by Michael Chase; every episode plays on the page, served from this domain)
+- Trust: https://atlr-frge.github.io/atlr-staging/trust/ (where it runs, what is logged, who approves, what ships for model risk)
 - Contact: https://atlr-frge.github.io/atlr-staging/contact/
 
 ## Facts
 - Domains of work: financial crime, network television, music, film, a projection venue, a weekly series on AI.
 - Network television: Billy Bob Thornton Presents: The Mayflower (Fox Nation, three one-hour episodes from 23 November 2026): pipeline support, seven animated maps, QC, and the record tracing its 627 AI shots to their prompts and tools.
 - Five controls on every build: validation before use, human approval, an audit record, release control, data protection.
-- Michael Chase hosts Materiality (https://atlr-frge.github.io/atlr-staging/materiality/, six episodes since 13 October 2026, a new one every Tuesday) and writes the Monday Morning Mashup (https://www.aiimaginelabs.com/blog/).
+- Michael Chase hosts Materiality (https://atlr-frge.github.io/atlr-staging/materiality/, 6 episodes since 13 October 2026, a new one every Tuesday) and writes the Monday Morning Mashup (https://www.aiimaginelabs.com/blog/).
